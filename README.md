@@ -10,7 +10,7 @@ Open [https://food-recipes-app-nine.vercel.app/](https://food-recipes-app-nine.v
 
 Open [https://github.com/Abhishek97Ojha/Food-Recipes-App](https://github.com/Abhishek97Ojha/Food-Recipes-App) to view it in your browser.
 
-#Api provider [edamam.com](edamam.com)#
+#Api provider [edamam.com](edamam.com)
 For the free version, we can only make 5 requests per minute.
 API can give some errors, if you see any CORS errors, add a cors browser extension for the browser you are using. [https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related](https://chrome.google.com/webstore/detail/allow-cors-access-control/lhobafahddgcelffkeicbaginigeejlf/related)
 
